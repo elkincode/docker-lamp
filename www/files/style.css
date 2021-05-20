@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+
+input {
+    display: block;
+}
+
+.conteiner mt-4 {
+    margin-top: 4px;
+}
+
+form {
+    width: 500px;
+
+}
+
+.row{
+    margin-left:  1%;
+
+}
+.action {
+    margin-bottom: 10%;
+}
+
+
+.conteiner mt-10 {
+    margin-top: 10px;
+
+}
+.text-block {
+    margin-left:50px;
+}
+
+.ml-1 {
+    margin-left: (1 * .25) !important;
+}
+
+.title-main {
+    text-align: center;
+    font-size: 38px;
+    width: 100%;
+    background: #f8f9fa;
+}
+
+.tablestyle {
+  padding-left: ($spacer * .15) !important;
+  padding-right: ($spacer * .15) !important;
+}
